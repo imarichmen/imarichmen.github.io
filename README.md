@@ -1,1 +1,1 @@
-# 리치맨 페이지
+# IMARICHMEN
