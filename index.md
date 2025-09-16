@@ -1,9 +1,6 @@
-title: Study Log
-description: 하루하루 배운 것 기록
-theme: minima
-timezone: Asia/Seoul
+---
+layout: home
+title: Home
+---
 
-minima:
-  header_pages:
-    - python.md
-
+여기는 내 공부 기록 블로그입니다.
