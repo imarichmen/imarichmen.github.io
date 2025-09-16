@@ -1,4 +1,4 @@
-title: Eunji • Study Log
+title: Study Log
 description: 하루하루 배운 것 기록
 theme: minima
 timezone: Asia/Seoul
@@ -6,3 +6,4 @@ timezone: Asia/Seoul
 minima:
   header_pages:
     - python.md
+
