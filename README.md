@@ -1,1 +1,1 @@
-# imarichmen.github.io
+# 리치맨 페이지
